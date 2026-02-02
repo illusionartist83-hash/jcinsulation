@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import IndustrialCalculators from "./HeatLossCalculator";
 
 export const metadata: Metadata = {
-  title: "JC Insulation and Engineers | India's Leading Insulation Giant | 50+ Cr Turnover | ISO Certified",
+  title: "JC Insulations and Engineers | India's Leading Insulation Giant | 50+ Cr Turnover | ISO Certified",
   description:
     "Leading industrial insulation company in India with 50+ Cr turnover, 500+ projects, ISO 9001:2015 certified. Expert in hot, cold, duct, acoustic insulation, fire proofing & cladding since 2001. Serving Gujarat & Pan-India.",
   keywords: "industrial insulation India, thermal insulation Gujarat, hot insulation, cold insulation, fire proofing, acoustic insulation, industrial cladding, pipe insulation, boiler insulation, HVAC insulation, JC Insulation Vapi",
