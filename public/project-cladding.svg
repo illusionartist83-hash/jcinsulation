@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="pClad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#94a3b8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#pClad)"/>
+  <rect x="80" y="140" width="1040" height="520" rx="26" fill="none" stroke="#ffffff" stroke-width="8" opacity="0.35"/>
+  <g fill="#ffffff" opacity="0.9">
+    <rect x="160" y="350" width="880" height="90" rx="45"/>
+    <rect x="220" y="490" width="760" height="60" rx="30"/>
+  </g>
+  <text x="160" y="270" font-family="Arial" font-size="46" fill="#ffffff" font-weight="700">Industrial Cladding</text>
+  <text x="160" y="315" font-family="Arial" font-size="24" fill="#e2e8f0">Metal jacketing finish</text>
+</svg>
