@@ -18,7 +18,7 @@ export default function HomePage() {
         <div className="container hero-split-grid">
           <div className="hero-main">
             <span className="badge">An ISO 9001:2015 Certified Company</span>
-            <h1>India'sss Leading Industrial Insulation Giant Since 2001</h1>
+            <h1>India's Leading Industrial Insulation Giant Since 2001 🚀</h1>
             <p className="hero-subtitle">
               Delivering Excellence across 500+ Projects with an Annual Turnover of ₹50 Cr+
             </p>
